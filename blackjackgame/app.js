@@ -1,0 +1,1 @@
+console.log("ganesh" + 3 +6)
